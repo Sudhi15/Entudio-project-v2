@@ -1,0 +1,4 @@
+credentials.json
+token.json
+attendance_system.db
+attendance_system_auto_backup_*.db
